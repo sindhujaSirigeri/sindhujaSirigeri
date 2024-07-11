@@ -9,8 +9,7 @@ A dedicated Environmental Science Graduate with a passion for data analysis and 
 - 🌱 I’m currently learning **machine learning, Cloud computing and Data Analysis **
 - 📫 How to reach me: **"sindhujasirigeri@gmail.com"**
 - 😄 Pronouns: **"she/her"**
-
-**Check out my recent Projects in my <a href='https://github.com/sindhujaSirigeri?tab=repositories'>Repositories</li></a>**
+- 🐱‍🏍Check out my recent projects in my <a href='https://github.com/sindhujaSirigeri?tab=repositories'>Repositories.</li></a>
 
 **🤝 Connect with me**
 
